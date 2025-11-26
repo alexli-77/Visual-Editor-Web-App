@@ -1,7 +1,7 @@
 
   # Visual Editor Web App
 
-  This is a code bundle for Visual Editor Web App. The original project is available at https://www.figma.com/design/iUWyQAbI9AeCKwNPlOk9BB/Visual-Editor-Web-App.
+  This is a code bundle for Visual Editor Web App. The original project is available at [demo](https://staff-notice-97783337.figma.site).
 
   ## Running the code
 
